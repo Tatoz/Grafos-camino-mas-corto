@@ -1,0 +1,9 @@
+LunaPark,Chillis,300
+LunaPark,McDonalds,400
+LunaPark,Vips,800
+Chillis,Vips,500
+Chillis,McDonalds,900
+McDonalds,Vips,1000
+Vips,LittleCaesars,700
+Vips,Esphera,300
+Esphera,LittleCaesars,200

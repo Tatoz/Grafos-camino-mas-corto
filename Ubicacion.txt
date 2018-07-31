@@ -1,0 +1,6 @@
+Vips,30,50
+McDonalds,15,510
+LunaPark,5,250
+Chillis,20,100
+Esphera,40,300
+LittleCaesars,35,510
